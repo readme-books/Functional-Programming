@@ -2,7 +2,11 @@
 <div align="center">
   <h1>📖 Book Study 📖</h1>
   <p>책 스터디 - 📚 쏙쏙 들어오는 함수형 코딩 편</p>
-  <image src="https://github.com/user-attachments/assets/d1ff54f5-6cd3-47b7-9db3-3a3bb02561b5" width="300px" height="400px"/>
+  <div>
+    <image src="https://github.com/user-attachments/assets/d1ff54f5-6cd3-47b7-9db3-3a3bb02561b5" width="300px" height="400px"/>
+  </div>
+  
+    
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fbook-study&count_bg=%23e76f51&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/book-study?color=ffd166" alt="stars"/>
 </div>
