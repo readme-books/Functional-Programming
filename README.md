@@ -67,4 +67,5 @@
 | :---------------------: | :-------------------------------------------------------------------------------------------: | :----------------: 
 | 2025.01.01 ~ 2025.01.12 |               [쏙쏙 들어오는 함수형 코딩]([https://product.kyobobook.co.kr/detail/S000001032980](https://www.yes24.com/Product/Goods/108748841))               |   chapter1~3   
 | 2025.01.13 ~ 2025.01.18 |               [쏙쏙 들어오는 함수형 코딩]([https://product.kyobobook.co.kr/detail/S000001032980](https://www.yes24.com/Product/Goods/108748841))               |   chapter4~6   
-| 2025.01.19 ~ 2025.01.25 |               [쏙쏙 들어오는 함수형 코딩]([https://product.kyobobook.co.kr/detail/S000001032980](https://www.yes24.com/Product/Goods/108748841))               |   chapter7~9   
+| 2025.01.19 ~ 2025.01.25 |               [쏙쏙 들어오는 함수형 코딩]([https://product.kyobobook.co.kr/detail/S000001032980](https://www.yes24.com/Product/Goods/108748841))               |   chapter7~8   
+| 2025.01.26 ~ 2025.02.01 |               [쏙쏙 들어오는 함수형 코딩]([https://product.kyobobook.co.kr/detail/S000001032980](https://www.yes24.com/Product/Goods/108748841))               |   chapter8~9  
