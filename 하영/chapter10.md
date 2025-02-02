@@ -1,1 +1,1 @@
-# chapter 10 :
+# chapter 10 : 일급함수 1
